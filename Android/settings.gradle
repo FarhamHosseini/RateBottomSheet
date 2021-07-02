@@ -1,3 +1,2 @@
 rootProject.name = "Android"
-include ':Example'
 include ':Core'
